@@ -13,6 +13,12 @@ body {
     }
 }
 
+.qr {
+    height: 200px;
+}
+.code_image {
+    height: 250px;
+}
 .contents {
     .links {
         h2 {
@@ -29,8 +35,5 @@ body {
         p {
             margin-top: 10px;
         }
-    }
-    .qr {
-        height: 200px;
     }
 }
